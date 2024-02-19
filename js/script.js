@@ -20,30 +20,30 @@
 
 // STEP 4
 
-// let firstName
-// let lastName
+// let strFirstName
+// let strLastName
 // let strAddress
 // let strCity
 // let strState
-// let zipCode
-// let yourAge
-// let referralSource
+// let intZipCode
+// let intYourAge
+// let strReferralSource
 // let blnMayWeContactYou
 
 // STEP 5
 
-// let firstName
+// let strFirstName
 // let strState
 // let blnMayWeContactYou
-// firstName = "Nina"
+// strFirstName = "Nina"
 // strState = "CA"
 // blnMayWeContactYou = true
 
-// let firstName = "Nina"
+// let strFirstName = "Nina"
 // let strState = "CA"
 // let blnMayWeContactYou = true
 
-// let firstName = "Nina", strState = "CA", blnMayWeContactYou = true
+// let strFirstName = "Nina", strState = "CA", blnMayWeContactYou = true
 
 // STEP 6
 
